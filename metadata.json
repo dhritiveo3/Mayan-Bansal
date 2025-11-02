@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Lead Manager",
+  "description": "A modern lead management dashboard powered by Gemini. It features an AI chat for insights, a live voice assistant for hands-free operation, and comprehensive analytics to track sales progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
